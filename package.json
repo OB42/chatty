@@ -1,0 +1,11 @@
+{
+  "name": "Chatty",
+  "version": "0.1.0",
+  "description": "Simple socket.io/mongoDb chat, join/create any chatroom like this: yoursite.com/chatRoom, set ip and ports in config.js.",
+  "dependencies": {
+        "mongodb": "2.1.20",
+        "socket.io": "1.4.5",
+        "express": "4.13.4"
+  },
+  "main": "chatty.js"
+}
